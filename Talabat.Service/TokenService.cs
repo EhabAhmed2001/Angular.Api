@@ -27,7 +27,8 @@ namespace Talabat.Service
 			var UserClaim = new List<Claim>()
 			{
 				new Claim(ClaimTypes.Email, user.Email),
-				new Claim(ClaimTypes.GivenName, user.DisplayNams)
+				new Claim(ClaimTypes.GivenName, user.DisplayNams),
+				new Claim(ClaimTypes.NameIdentifier, user.Id)
 			};
 
 			// Security Key

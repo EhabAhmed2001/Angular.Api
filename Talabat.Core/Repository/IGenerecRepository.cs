@@ -1,18 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Talabat.Core.Specifications;
 
 namespace Talabat.Core.Repository
 {
-	public interface IGenerecRepository<T> where T : BaseEntity
+	public interface IGenericRepository<T> where T : BaseEntity
 	{
 		#region Without Specification
 
 		Task<IEnumerable<T>> GetAllAsync();
-		Task<T> GetByIdAsync(int id);
+		Task<T> GetByIdAsync(int id, List<Expression<Func<T, object>>>? Includes = null);
 
 		#endregion
 

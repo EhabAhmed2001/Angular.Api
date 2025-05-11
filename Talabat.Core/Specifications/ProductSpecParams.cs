@@ -12,12 +12,13 @@ namespace Talabat.Core.Specifications
         public string? name { get; set; }
         public int? typeId { get; set; }
         public int? brandId { get; set; }
+        public decimal? price { get; set; }
 
-		private int pageSize = 5;
+		private int pageSize = 10;
 		public int PageSize
 		{
 			get { return pageSize; }
-			set { pageSize = value > 10 ? 10 : value; }
+			set { pageSize = value > 15 ? 15 : value; }
 		}
 
 		public int index { get; set; } = 1;

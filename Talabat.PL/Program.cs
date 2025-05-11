@@ -29,30 +29,54 @@ namespace Talabat.PL
 			builder.Services.AddEndpointsApiExplorer();
 			builder.Services.AddSwaggerGen();
 
+			builder.Services.AddCors(options =>
+			{
+				options.AddPolicy("CorsPolicy", policy =>
+				{
+					policy.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin();
+				});
+			});
+
 			builder.Services.AddDbContext<StoreContext>(options =>
 			{
 				options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
 			});
 
-			builder.Services.AddDbContext<AppIdentityDbContext>(options =>
-			{
-				options.UseSqlServer(builder.Configuration.GetConnectionString("AppIdentityConnection"));
-			});
+			//builder.Services.AddDbContext<AppIdentityDbContext>(options =>
+			//{
+			//	options.UseSqlServer(builder.Configuration.GetConnectionString("AppIdentityConnection"));
+			//});
 
-			builder.Services.AddSingleton<IConnectionMultiplexer>(option =>
-			{
-				var connection = builder.Configuration.GetConnectionString("RidusConnection");
+			//builder.Services.AddSingleton<IConnectionMultiplexer>(option =>
+			//{
+			//	var connection = builder.Configuration.GetConnectionString("RidusConnection");
 
-				return ConnectionMultiplexer.Connect(connection);
-			});
+			//	return ConnectionMultiplexer.Connect(connection);
+			//});
+
+            builder.Services.AddScoped<IConnectionMultiplexer>(sp =>
+            {
+                return ConnectionMultiplexer.Connect(new ConfigurationOptions
+                {
+                    EndPoints = { { builder.Configuration.GetConnectionString("RedisConnection")!, int.Parse(builder.Configuration.GetConnectionString("RedisPort")!) } },
+
+                    User = builder.Configuration.GetConnectionString("RedisUserName"),
+                    Password = builder.Configuration.GetConnectionString("RedisPassword")
+                });
+            });
+
+
 
 			builder.Services.AddAplicationServices();
-
 			builder.Services.AddIdentityServices(builder.Configuration);
 
-			#endregion
+			//builder.Services.AddIdentity<AppUser, IdentityRole>(options =>
+			//{
+			//})
+			//.AddEntityFrameworkStores<StoreContext>();
+            #endregion
 
-			var app = builder.Build();
+            var app = builder.Build();
 
 			using var scope = app.Services.CreateScope();
 
@@ -66,11 +90,11 @@ namespace Talabat.PL
 
 				await DbContext.Database.MigrateAsync();
 
-				var IdentityDbContext = service.GetRequiredService<AppIdentityDbContext>();
+				//var IdentityDbContext = service.GetRequiredService<AppIdentityDbContext>();
 
 				var userManager = service.GetRequiredService<UserManager<AppUser>>();
 
-				await IdentityDbContext.Database.MigrateAsync();
+				//await IdentityDbContext.Database.MigrateAsync();
 
 				await AppIdentityDbContextSeed.SeedUserAsync(userManager);
 
@@ -97,7 +121,9 @@ namespace Talabat.PL
 
 			app.UseStaticFiles();
 
-			app.UseHttpsRedirection();
+			app.UseCors("CorsPolicy");
+
+            app.UseHttpsRedirection();
 
 			app.UseAuthentication();
 

@@ -14,11 +14,12 @@ namespace Talabat.PL.Extensions
 		public static IServiceCollection AddAplicationServices(this IServiceCollection Services)
 		{
 
-			Services.AddSingleton(typeof(ICacheService), typeof(CacheService));
+			Services.AddScoped(typeof(ICacheService), typeof(CacheService));
 			Services.AddScoped(typeof(IPaymentService), typeof(PaymentService));
 			Services.AddScoped(typeof(IUnitOfWork), typeof(UnitOfwork));
 			Services.AddScoped(typeof(IOrderService), typeof(OrderService));
 			Services.AddScoped(typeof(IBasketRepository), typeof(BasketRepository));
+			Services.AddScoped(typeof(IFavouriteRepository), typeof(FavouriteRepository));
 
 			//Services.AddScoped(typeof(IGenerecRepository<>), typeof(GenerecRepository<>));
 

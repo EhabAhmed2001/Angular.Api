@@ -10,6 +10,6 @@ namespace Talabat.Core
 	public interface IUnitOfWork : IAsyncDisposable
 	{
 		Task<int> CompleteAsync(); 
-		IGenerecRepository<T> Repository<T>() where T : BaseEntity;
+		IGenericRepository<T> Repository<T>() where T : BaseEntity;
 	}
 }

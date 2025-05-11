@@ -1,22 +1,25 @@
-[{
-        "Name": "Starbucks"
-    },
-    {
-        "Name": "Costa"
-    },
-    {
-        "Name": "Cilantro"
-    },
-    {
-        "Name": "TBS"
-    },
-    {
-        "Name": "On The Run"
-    },
-    {
-        "Name": "Caribou"
-    },
-    {
-        "Name": "Krispy Kreme"
-    }
+[
+  { "Name": "sony" },
+  { "Name": "microsoft" },
+  { "Name": "logitech G" },
+  { "Name": "urbanista" },
+  { "Name": "xiaomi" },
+  { "Name": "boat" },
+  { "Name": "samsung" },
+  { "Name": "apple" },
+  { "Name": "Amkette" },
+  { "Name": "Sennheiser" },
+  { "Name": "ant esports" },
+  { "Name": "CredevZone" },
+  { "Name": "panasonic" },
+  { "Name": "mivi" },
+  { "Name": "JBL" },
+  { "Name": "soundcore" },
+  { "Name": "Marshall" },
+  { "Name": "Bang & Olufsen" },
+  { "Name": "Denon" },
+  { "Name": "redmi" },
+  { "Name": "mi" },
+  { "Name": "acer" },
+  { "Name": "LG" }
 ]

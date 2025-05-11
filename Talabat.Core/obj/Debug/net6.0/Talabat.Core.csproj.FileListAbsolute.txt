@@ -1,0 +1,52 @@
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.deps.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.AssemblyReference.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfoInputs.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.AssemblyInfo.cs
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.csproj.CoreCompileInputs.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.sourcelink.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\refint\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Core\obj\Debug\net6.0\ref\Talabat.Core.dll

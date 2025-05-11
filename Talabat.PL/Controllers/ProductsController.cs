@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq.Expressions;
 using AutoMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
@@ -43,13 +44,17 @@ namespace Talabat.PL.Controllers
 		[HttpGet("{Id}")]
 		[ProducesResponseType(typeof(ProductToReturnDto),200)]
 		[ProducesResponseType(typeof(ApiResponse),404)]
-		public async Task<ActionResult<Product>> GetProductById(int Id)
-		{
-			var Spec = new ProductWithBrandAndTypeSpec(Id);
-			var product = await _unitOfWork.Repository<Product>().GetByIdWithSpecAsync(Spec);
-			if (product is null)
-				return NotFound(new ApiResponse(404));
-			var MappedProduct = _mapper.Map<Product, ProductToReturnDto>(product);
+        public async Task<ActionResult<Product>> GetProductById(int Id)
+        {
+            //var Spec = new ProductWithBrandAndTypeSpec(Id);
+            //var product = await _unitOfWork.Repository<Product>().GetByIdWithSpecAsync(Spec);
+            var includes = 
+				new List<Expression<Func<Product, object>>> {	o => o.Brand,
+																o => o.Type	};
+			var product = await _unitOfWork.Repository<Product>().GetByIdAsync(Id, includes);
+            if (product is null)
+                return NotFound(new ApiResponse(404));
+            var MappedProduct = _mapper.Map<Product, ProductToReturnDto>(product);
 			return Ok(MappedProduct);
 		}
 
@@ -70,5 +75,7 @@ namespace Talabat.PL.Controllers
 			var type = await _unitOfWork.Repository<ProductType>().GetAllAsync();
 			return Ok(type);
 		}
+
+		//[HttpPost]
 	}
 } 

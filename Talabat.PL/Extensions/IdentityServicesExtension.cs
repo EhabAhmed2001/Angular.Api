@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using Talabat.Core.Entities.Identity;
 using Talabat.Core.Services;
+using Talabat.Repository.Data;
 using Talabat.Repository.Identity;
 using Talabat.Service;
 
@@ -16,7 +17,7 @@ namespace Talabat.PL.Extensions
 			Services.AddScoped<ITokenService, TokenService>();
 
 			Services.AddIdentity<AppUser, IdentityRole>()
-							.AddEntityFrameworkStores<AppIdentityDbContext>();
+							.AddEntityFrameworkStores<StoreContext>();
 
 			Services.AddAuthentication(Option =>
 			{

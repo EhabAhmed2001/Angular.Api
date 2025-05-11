@@ -1,0 +1,364 @@
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.exe
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.deps.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.runtimeconfig.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.AssemblyReference.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfoInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfo.cs
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.CoreCompileInputs.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.PL.props
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.PL.props
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.PL.props
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\scopedcss\bundle\Talabat.PL.styles.css
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.CopyComplete
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\refint\Talabat.PL.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.genruntimeconfig.cache
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\ref\Talabat.PL.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.runtime.json
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Stripe.net.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\ASP.net core\8- API\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.sourcelink.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.runtime.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.endpoints.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.exe
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.deps.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.runtimeconfig.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Stripe.net.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.AssemblyReference.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfoInputs.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfo.cs
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.CoreCompileInputs.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.sourcelink.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\scopedcss\bundle\Talabat.PL.styles.css
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.PL.props
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.PL.props
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.PL.props
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.Up2Date
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\refint\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.genruntimeconfig.cache
+E:\Courses\ITI\21- Angular\Project\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\ref\Talabat.PL.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.endpoints.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.runtime.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.exe
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.deps.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.runtimeconfig.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\StackExchange.Redis.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Stripe.net.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.sourcelink.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\scopedcss\bundle\Talabat.PL.styles.css
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.PL.props
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.PL.props
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.PL.props
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.Up2Date
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\refint\Talabat.PL.dll
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.pdb
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.genruntimeconfig.cache
+C:\Users\Lenovo\Downloads\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\ref\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.AssemblyReference.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfoInputs.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.AssemblyInfo.cs
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.CoreCompileInputs.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.sourcelink.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\refint\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\appsettings.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.endpoints.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.staticwebassets.runtime.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.exe
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.deps.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.runtimeconfig.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.PL.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Stripe.net.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.dll
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Repository.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Service.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\bin\Debug\net6.0\Talabat.Core.pdb
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\scopedcss\bundle\Talabat.PL.styles.css
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.Talabat.PL.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.build.Talabat.PL.props
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talabat.PL.props
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talabat.PL.props
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.csproj.Up2Date
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\Talabat.PL.genruntimeconfig.cache
+E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.PL\obj\Debug\net6.0\ref\Talabat.PL.dll

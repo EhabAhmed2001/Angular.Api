@@ -15,4 +15,13 @@ namespace Talabat.Core.Repository
 
 		public Task<CustomerBasket?> UpdateBasketAsync(CustomerBasket Basket);
 	}
+	
+	public interface IFavouriteRepository
+	{
+		public Task<bool> DeleteBasketAsync (string id);
+
+		public Task<CustomerFavourite?> GetBasketAsync(string id);
+
+		public Task<CustomerFavourite?> UpdateBasketAsync(CustomerFavourite Basket);
+	}
 }

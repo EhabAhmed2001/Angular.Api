@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Identity;
+using Talabat.Core.Entities.Order_Aggregate;
 
 namespace Talabat.Core.Entities.Identity
 {

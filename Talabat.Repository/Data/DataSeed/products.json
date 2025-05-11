@@ -1,145 +1,402 @@
-[{
-        "Name": "Double Caramel Frappuccino",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 200,
-        "PictureUrl": "images/products/sb-ang1.png",
-        "TypeId": 1,
-        "BrandId": 1
-    },
-    {
-        "Name": "White Chocolate Mocha Frappuccino",
-        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-        "Price": 150,
-        "PictureUrl": "images/products/sb-ang2.png",
-        "TypeId": 1,
-        "BrandId": 1
-    },
-    {
-        "Name": "Iced Cafe Latte",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 180,
-        "PictureUrl": "images/products/sb-core1.png",
-        "TypeId": 2,
-        "BrandId": 1
-    },
-    {
-        "Name": "White Chocolate Mocha",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 300,
-        "PictureUrl": "images/products/sb-core2.png",
-        "TypeId": 3,
-        "BrandId": 2
-    },
-    {
-        "Name": "Iced Caramel Macchiato",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 250,
-        "PictureUrl": "images/products/sb-react1.png",
-        "TypeId": 4,
-        "BrandId": 1
-    },
-    {
-        "Name": "Hot Caramel Macchiato",
-        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-        "Price": 120,
-        "PictureUrl": "images/products/sb-ts1.png",
-        "TypeId": 4,
-        "BrandId": 5
-    },
-    {
-        "Name": "Iced Matcha Latte",
-        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 10,
-        "PictureUrl": "images/products/hat-core1.png",
-        "TypeId": 5,
-        "BrandId": 2
-    },
-    {
-        "Name": "Honey Cake",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 8,
-        "PictureUrl": "images/products/hat-react1.png",
-        "TypeId": 6,
-        "BrandId": 1
-    },
-    {
-        "Name": "Blueberry Cheesecake",
-        "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 15,
-        "PictureUrl": "images/products/hat-react2.png",
-        "TypeId": 6,
-        "BrandId": 1
-    },
-    {
-        "Name": "Glazed Donuts",
-        "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-        "Price": 18,
-        "PictureUrl": "images/products/glove-code1.png",
-        "TypeId": 7,
-        "BrandId": 3
-    },
-    {
-        "Name": "Greek Salad",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 15,
-        "PictureUrl": "images/products/glove-code2.png",
-        "TypeId": 7,
-        "BrandId": 1
-    },
-    {
-        "Name": "Purple React Gloves",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-        "Price": 16,
-        "PictureUrl": "images/products/glove-react1.png",
-        "TypeId": 4,
-        "BrandId": 4
-    },
-    {
-        "Name": "Green React Gloves",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 14,
-        "PictureUrl": "images/products/glove-react2.png",
-        "TypeId": 4,
-        "BrandId": 4
-    },
-    {
-        "Name": "Redis Red Boots",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 250,
-        "PictureUrl": "images/products/boot-redis1.png",
-        "TypeId": 3,
-        "BrandId": 6
-    },
-    {
-        "Name": "Core Red Boots",
-        "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-        "Price": 189.99,
-        "PictureUrl": "images/products/boot-core2.png",
-        "TypeId": 3,
-        "BrandId": 2
-    },
-    {
-        "Name": "Core Purple Boots",
-        "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-        "Price": 199.99,
-        "PictureUrl": "images/products/boot-core1.png",
-        "TypeId": 3,
-        "BrandId": 2
-    },
-    {
-        "Name": "Angular Purple Boots",
-        "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-        "Price": 150,
-        "PictureUrl": "images/products/boot-ang2.png",
-        "TypeId": 3,
-        "BrandId": 1
-    },
-    {
-        "Name": "Angular Blue Boots",
-        "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-        "Price": 180,
-        "PictureUrl": "images/products/boot-ang1.png",
-        "TypeId": 3,
-        "BrandId": 1
-    }
+[
+  {
+    "Name": "Sony WH-1000XM3 Bluetooth Wireless Over Ear Headphones with Mic (Silver)",
+    "Description": "Digital noise cancelling : Industry leading Active Noise Cancellation (ANC) lends a personalized, virtually soundproof experience at any situation...",
+    "Price": 773,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692947383286-714WUJlhbLS._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Microsoft Xbox X/S Wireless Controller Robot White",
+    "Description": "Experience the modernized design of the Xbox wireless controller in robot white, featuring sculpted surfaces and refined Geometry for enhanced comfort...",
+    "Price": 57,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255251854-xbox.jpg",
+    "TypeId": 2,
+    "BrandId": 2
+  },
+  {
+    "Name": "Logitech G733 Lightspeed Wireless Gaming Headset with Suspension Headband, LIGHTSYNC RGB, Blue VO!CE mic Technology and PRO-G Audio Drivers - White",
+    "Description": "Total freedom with up to 20 m wireless range and LIGHTSPEED wireless audio transmission...",
+    "Price": 384,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692257709689-logitech heaphone.jpg",
+    "TypeId": 2,
+    "BrandId": 3
+  },
+  {
+    "Name": "Sony WH-1000XM5 Wireless Industry Leading Active Noise Cancelling Headphones, 8 Mics for Clear Calling, 30Hr Battery, 3 Min Quick Charge = 3 Hours Playback, Multi Point Connectivity, Alexa-Silver",
+    "Description": "Industry Leading noise cancellation-two processors control 8 microphones for unprecedented noise cancellation...",
+    "Price": 362,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692941008275-headphone3.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Urbanista Los Angeles Sand Gold - World's 1st Solar Powered Hybrid Active Noise Cancelling with Mic Premium Wireless Headphones, Unlimited Playtime",
+    "Description": "Welcome to the dawn of a new era with URBANISTA LOS ANGELES, the world's first solar-charging premium wireless headphoneS...",
+    "Price": 265,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691056487173-headphon2.jpg",
+    "TypeId": 1,
+    "BrandId": 4
+  },
+  {
+    "Name": "Xiaomi Wired in-Ear Earphones with Mic, Ultra Deep Bass & Metal Sound Chamber (Blue)",
+    "Description": "Ergonomically angled to fit perfectly in your ear canal that provides long lasting comfort for every day usage...",
+    "Price": 5,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691057474498-earphone.jpg",
+    "TypeId": 1,
+    "BrandId": 5
+  },
+  {
+    "Name": "boAt Rockerz 370 On Ear Bluetooth Headphones with Upto 12 Hours Playtime, Cozy Padded Earcups and Bluetooth v5.0, with Mic (Buoyant Black)",
+    "Description": "Rockerz 370 come equipped with latest Bluetooth v5.0 for instant wireless connectivity...",
+    "Price": 12,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691057718636-headphone5.jpg",
+    "TypeId": 1,
+    "BrandId": 6
+  },
+  {
+    "Name": "Samsung Galaxy S21 FE 5G (Lavender, 8GB, 128GB Storage)",
+    "Description": "Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom...",
+    "Price": 434,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691073671025-galaxy S21 FE.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Amkette EvoFox Elite Ops Wireless Gamepad for Android TV | Google TV | 8+ Hours of Play Time | Zero Lag Connectivity Upto 12 Feets | USB Extender for TV Included | - Dusk Grey",
+    "Description": "The EvoFox Elite Ops Wireless Gamepad with Type C Charging is the ideal Android TV Gamepad...",
+    "Price": 18,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694100438525-51Prg4Smx-L._SL1500_.jpg",
+    "TypeId": 2,
+    "BrandId": 9
+  },
+  {
+    "Name": "Samsung Galaxy S22 5G (Phantom White, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
+    "Description": "Pro-grade Camera that lets you make your nights epic with Nightography...",
+    "Price": 760,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691074519203-galaxy S22 5G.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Samsung Galaxy S22 Ultra 5G (Burgundy, 12GB, 256GB Storage)",
+    "Description": "The first Galaxy S with embedded S Pen. Write comfortably like pen on paper...",
+    "Price": 1147,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691074776147-galaxy S22 ultra 5G.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Poco by Xiaomi F1 Steel Blue, 6GB RAM, 64GB Storage",
+    "Description": "2MP+5MP dual camera | 20MP front facing camera...",
+    "Price": 132,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691078463674-poco f1.jpg",
+    "TypeId": 3,
+    "BrandId": 5
+  },
+  {
+    "Name": "Samsung Galaxy M14 5G (Smoky Teal, 6GB, 128GB Storage)",
+    "Description": "16.72 centimeters (6.6-inch) LCD, FHD+ resolution with 1080 x 2408 pixels resolution...",
+    "Price": 187,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075307831-galaxy M14 5G.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Apple iPhone 14 (128 GB) - Blue",
+    "Description": "15.40 cm (6.1-inch) Super Retina XDR display...",
+    "Price": 809,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075659827-iPhone 14.jpg",
+    "TypeId": 3,
+    "BrandId": 8
+  },
+  {
+    "Name": "Apple iPhone 14 Pro Max (256 GB) - Deep Purple",
+    "Description": "17.00 cm (6.7-inch) Super Retina XDR display featuring Always-On and ProMotion...",
+    "Price": 1810,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075831385-iPhone 14 pro max.jpg",
+    "TypeId": 3,
+    "BrandId": 8
+  },
+  {
+    "Name": "Apple iPhone 14 Pro (256 GB) - Gold",
+    "Description": "15.54 cm (6.1-inch) Super Retina XDR display featuring Always-On and ProMotion...",
+    "Price": 1546,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691076020478-iPhone 14 pro.jpg",
+    "TypeId": 3,
+    "BrandId": 8
+  },
+  {
+    "Name": "Apple iPhone 12 (256GB) - Green",
+    "Description": "6.1-inch (15.5 cm diagonal) Super Retina XDR display...",
+    "Price": 844,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691077233139-iPhone 12.jpg",
+    "TypeId": 3,
+    "BrandId": 8
+  },
+  {
+    "Name": "Xiaomi 12 Pro | 5G (Noir Black, 8GB RAM, 256GB Storage) | Snapdragon 8 Gen 1 | 50+50+50MP Flagship Cameras (OIS) | 10bit 2K+ Curved AMOLED Display",
+    "Description": "The Pro-grade triple 50MP camera array unleashes the true power of a triple-camera setup...",
+    "Price": 507,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691077711136-xiaomi 12 pro 5g.jpg",
+    "TypeId": 3,
+    "BrandId": 5
+  },
+  {
+    "Name": "Xiaomi 11T Pro 5G Hyperphone (Meteorite Black, 8GB RAM, 256GB Storage) |SD 888|120W HyperCharge|Segment's only Phone with Dolby Vision+Dolby Atmos",
+    "Description": "The 5G enabled flagship Snapdragon 888 chipset is designed on a 5nm fab process...",
+    "Price": 507,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691078241728-xiaomi 11T Pro 5G.jpg",
+    "TypeId": 3,
+    "BrandId": 5
+  },
+  {
+    "Name": "Samsung Galaxy M13 (Aqua Green, 6GB, 128GB Storage)",
+    "Description": "6000mAh lithium-ion battery, 1 year manufacturer warranty for device...",
+    "Price": 140,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075065521-galaxy M13.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Redmi Note 12 5G Matte Black 6GB RAM 128GB ROM | 1st Phone with 120Hz Super AMOLED and Snapdragon® 4 Gen 1 | 48MP AI Triple Camera",
+    "Description": "Display: Super AMOLED (1080x2400) Display with 120Hz Refresh rate...",
+    "Price": 229,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691078965685-redmi note 12 5g.jpg",
+    "TypeId": 3,
+    "BrandId": 5
+  },
+  {
+    "Name": "Sennheiser HD 400s Wired Over The Ear Headphone with Mic (Black)",
+    "Description": "Renowned Sennheiser sound quality for a unique listening experience...",
+    "Price": 54,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691055730759-headphone4.jpg",
+    "TypeId": 1,
+    "BrandId": 10
+  },
+  {
+    "Name": "Ant Esports GP310 Wireless Gamepad, Compatible for PC & Laptop (Windows 10/8 /7, Steam) / PS3 / Android",
+    "Description": "Compatibility – PC / Laptop Computer(Windows 10/8/7/XP), Steam, Play Station 3(PS3)...",
+    "Price": 14,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255692675-ant sport.jpg",
+    "TypeId": 2,
+    "BrandId": 11
+  },
+  {
+    "Name": "Logitech G502 Lightspeed Wireless Gaming Mouse, 25K Hero Gaming Sensor, 25600 DPI, RGB, Ultra-Light, 11 Programmable Buttons, Long Life Battery, PowerPlay-Compatible, PC - Black",
+    "Description": "COLORFUL LIGHTSYNC RGB : Play in colour with our most vibrant LIGHTSYNC RGB...",
+    "Price": 19,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692257315660-logitech.jpg",
+    "TypeId": 2,
+    "BrandId": 3
+  },
+  {
+    "Name": "Samsung Galaxy S23 5G (Green, 8GB, 128GB Storage)",
+    "Description": "More light for your night - Get ready for a Gallery full of epic night shots everyone will want...",
+    "Price": 905,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691074179466-galaxy S23 5G.jpg",
+    "TypeId": 3,
+    "BrandId": 7
+  },
+  {
+    "Name": "Handheld Game Console 5.1 inch Pro Retro Games Consoles Built-in Classic Games Rechargeable Battery Portable Style Game Consoles X12",
+    "Description": "900+ Selected Classic Games: This X12 game console has nostalgic 900 games...",
+    "Price": 163,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692458709910-51DkZC39goL._SL1000_.jpg",
+    "TypeId": 2,
+    "BrandId": 12
+  },
+  {
+    "Name": "Sony PS5 PlayStation Console+God Of War Ragnarok | Standard Edition | PS5 Game (PlayStation 5)",
+    "Description": "Maximize your play sessions with near instant load times for installed PS5 games...",
+    "Price": 708,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692459170997-61iHq6qV0gL._SL1422_.jpg",
+    "TypeId": 2,
+    "BrandId": 1
+  },
+  {
+    "Name": "Apple AirPods (3rd Generation) with Lightning Charging Case",
+    "Description": "Spatial audio with dynamic head tracking places sound all around you...",
+    "Price": 230,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691054448465-earbud2.jpg",
+    "TypeId": 1,
+    "BrandId": 8
+  },
+  {
+    "Name": "Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Blue)",
+    "Description": "With up to 50-hour battery life and quick charging, you'll have enough power for multi-day road trips...",
+    "Price": 60,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692939683873-headphone1.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Sony Srs-Xb13 Wireless Extra Bass Portable Compact Bluetooth Speaker with 16 Hours Battery Life, Type-C, Ip67 Waterproof, Dustproof, with Mic, Loud Audio for Phone Calls/Work from Home (Black), Small",
+    "Description": "Waterproof and dustproof with an IP67 rating, this speaker is just as good outside as it is inside...",
+    "Price": 42,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692940742197-speaker1.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Panasonic RB-M300B Deep Bass Wireless Bluetooth Immersive Headphones with XBS DEEP and Bass Augmentation (Sand Beige), RB-M300B-C",
+    "Description": "ULTRA-LOW BASS RESPONSE Enjoy powerful deep bass, without compromising the depth and balance of the track...",
+    "Price": 289,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691056086962-headphone.jpg",
+    "TypeId": 1,
+    "BrandId": 13
+  },
+  {
+    "Name": "Sony WH-CH520, Wireless On-Ear Bluetooth Headphones with Mic, Upto 50 Hours Playtime, DSEE Upscale, Multipoint Connectivity/Dual Pairing,Voice Assistant App Support for Mobile Phones (Beige)",
+    "Description": "With up to 50-hour battery life and quick charging, you'll have enough power for multi-day road trips...",
+    "Price": 54,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692941955003-headphone2.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "boAt Stone 180 5W Bluetooth Speaker with Upto 10 Hours Playback, 1.75\" Driver, IPX7 & TWS Feature(Black)",
+    "Description": "Stone 180 comes equipped with 1.75\" Dynamic Drivers for powerful immersive sound...",
+    "Price": 13,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692943845065-71vI6nfLtYL._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 6
+  },
+  {
+    "Name": "Mivi Play Bluetooth Speaker with 12 Hours Playtime. Wireless Speaker Made in India with Exceptional Sound Quality, Portable and Built in Mic-Black",
+    "Description": "Studio Grade Sound: The Mivi Play Bluetooth speaker delivers a deep and powerful sound...",
+    "Price": 10,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692944238682-61UJnlIHF9S._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 14
+  },
+  {
+    "Name": "JBL Go 2, Wireless Portable Bluetooth Speaker with Mic, JBL Signature Sound, Vibrant Color Options with IPX7 Waterproof & AUX (Blue)",
+    "Description": "JBL Signature Sound...",
+    "Price": 24,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692944486283-8193DNNjZFS._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 15
+  },
+  {
+    "Name": "Mivi Duopods A25 Bluetooth Truly Wireless in Ear Earbuds with Mic with 40Hours Battery, 13Mm Bass Drivers & Made in India. with Immersive Sound Quality, Voice Assistant, Touch Control (White)",
+    "Description": "Made in India : From design to manufacturing, Mivi DuoPods A25 is proudly made in India...",
+    "Price": 12,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692945068061-61yTSVeLebS._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 14
+  },
+  {
+    "Name": "soundcore by Anker Space Q45 Adaptive Noise Cancelling Headphones, Reduce Noise by Up to 98%, Ultra Long 50H Playtime, App Customization, Hi-Res Sound with Details, Bluetooth 5.3",
+    "Description": "98% Less Noise for Your Journey: The fully-upgraded noise cancelling system targets and blocks out a wider range of noises...",
+    "Price": 415,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691056348236-headphone3.jpg",
+    "TypeId": 1,
+    "BrandId": 16
+  },
+  {
+    "Name": "Marshall Uxbridge Airplay Multi-Room Wireless Speaker with Alexa Built-in - White",
+    "Description": "Loud just got smaller. Uxbridge Voice is engineered to create a thunderous sound from itscompact frame...",
+    "Price": 266,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692946110280-81WIcjaGp2L._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 17
+  },
+  {
+    "Name": "Bang & Olufsen Beosound Balance Wireless Multiroom Speaker, Natural Oak",
+    "Description": "Beosound Balance is a wireless speaker with a cutting-edge audio engine, made to deliver a powerful, dynamic yet sophisticated sound experience...",
+    "Price": 5804,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692946673658-91xz5VkenTL._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 18
+  },
+  {
+    "Name": "JBL Tune 720BT Wireless Over Ear Headphones with Mic, Pure Bass Sound, Upto 76 Hrs Playtime, Speedcharge, Dual Pairing, Customizable Bass with Headphones App, Lightweight, Bluetooth 5.3 (Blue)",
+    "Description": "JBL PURE BASS SOUND: The JBL Tune 720BT utilizes the renowned JBL Pure Bass sound...",
+    "Price": 63,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691055458260-headphone.jpg",
+    "TypeId": 1,
+    "BrandId": 15
+  },
+  {
+    "Name": "Sony SA-SW5 300W Wireless Subwoofer for HT-A9 and HT-A7000 - Black",
+    "Description": "Experience powerful, booming sound with the SW5 wireless subwoofer for use with HT-A9 & A7000 soundbars...",
+    "Price": 629,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692947684843-61T7iilajhL._SL1200_.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "DENON Home 350 Wireless Speaker - Powerful Room Filling Sound with Bluetooth, AirPlay 2 and Alexa Built-in - White",
+    "Description": "DENON HOME 350 The Denon Home series fills your home with superb wireless sound...",
+    "Price": 919,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692947856684-81xoxBiCcjL._SL1500_.jpg",
+    "TypeId": 1,
+    "BrandId": 19
+  },
+  {
+    "Name": "JBL Wave 200 Wireless Earbuds (TWS) with Mic, 20 Hours Playtime, Deep Bass Sound, Dual Connect Technology, Quick Charge, Comfort Fit Ergonomic Design, Voice Assistant Support for Mobiles (Black)",
+    "Description": "JBL DEEP BASS SOUND: Feel the sound with the Deep Bass powered by the 8mm Dynamic drivers...",
+    "Price": 24,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691055343505-earbud.jpg",
+    "TypeId": 1,
+    "BrandId": 15
+  },
+  {
+    "Name": "Sony WF-C700N Bluetooth Truly Wireless Lightest Active Noise Cancellation in Ear Earbuds, Multipoint Connection, 10 mins Super Quick Charge, 20hrs Batt, IPX4 Ratings, Fast Pair, App Support-Black",
+    "Description": "Lightest Earbuds : Focus on your music for as long as you like...",
+    "Price": 108,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692939913875-earphone1.jpg",
+    "TypeId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "New Apple AirPods Max - Pink",
+    "Description": "Apple-designed dynamic driver provides high-fidelity audio...",
+    "Price": 723,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691053838595-headphone2.jpg",
+    "TypeId": 1,
+    "BrandId": 8
+  },
+  {
+    "Name": "Redmi 80 cm (32 inches) HD Ready Smart LED Fire TV L32R8-FVIN (Black)",
+    "Description": "Resolution: HD Ready (1366x768) | Refresh Rate: 60 hertz | 178 wide viewing angle...",
+    "Price": 138,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694154515879-819Lw2PE8tL._SL1500_.jpg",
+    "TypeId": 4,
+    "BrandId": 20
+  },
+  {
+    "Name": "Samsung 108 cm (43 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA43CUE60AKLXL (Black)",
+    "Description": "Smart TV Features : Supported apps: Netflix, Prime Video, YouTube, etc., Screen mirroring...",
+    "Price": 396,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694154827301-81+JXgPUDLL._SL1500_.jpg",
+    "TypeId": 4,
+    "BrandId": 7
+  },
+  {
+    "Name": "Mi 125 cm (50 inches) X Series 4K Ultra HD Smart Android LED TV L50M7-A2IN (Black)",
+    "Description": "Resolution: 4K Ultra HD (3840 x 2160) | Refresh Rate: 60 hertz | 178° wide viewing angle...",
+    "Price": 384,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694155239807-81UT46-gwRL._SL1500_.jpg",
+    "TypeId": 4,
+    "BrandId": 21
+  },
+  {
+    "Name": "Acer 126 cm (50 inches) V Series 4K Ultra HD Smart QLED Google TV AR50GR2851VQD (Black)",
+    "Description": "Resolution: QLED, 4K Ultra HD (3840x2160) | Refresh Rate: 60 Hertz | 178 Degree wide viewing angle...",
+    "Price": 444,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694155440745-619--Jabh2L._SL1048_.jpg",
+    "TypeId": 4,
+    "BrandId": 22
+  },
+  {
+    "Name": "LG 139 cm (55 inches) 4K Ultra HD Smart OLED TV 55BXPTA (Dark Steel Silver)",
+    "Description": "Display backlight technology used by the TV...",
+    "Price": 1322,
+    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694156089516-71KVQa4N4zL._SL1500_.jpg",
+    "TypeId": 4,
+    "BrandId": 23
+  }
 ]

@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
@@ -12,11 +13,11 @@ using Talabat.Repository.Data;
 
 namespace Talabat.Repository
 {
-	public class GenerecRepository<T> : IGenerecRepository<T> where T : BaseEntity
+	public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
 	{
 		private readonly StoreContext _dbContext;
 
-		public GenerecRepository(StoreContext dbContext)
+		public GenericRepository(StoreContext dbContext)
         {
 			_dbContext = dbContext;
 		}
@@ -31,9 +32,18 @@ namespace Talabat.Repository
 		}
 
 
-		public async Task<T> GetByIdAsync(int id)
+		public async Task<T> GetByIdAsync(int id, List<Expression<Func<T, object>>>? Includes = null)
 		{
-			return await _dbContext.Set<T>().FindAsync(id);
+			if(Includes != null)
+            {
+                var query = _dbContext.Set<T>().AsQueryable();
+                foreach (var include in Includes)
+                {
+                    query = query.Include(include);
+                }
+                return await query.FirstOrDefaultAsync(P => P.Id == id);
+            }
+            return await _dbContext.Set<T>().FindAsync(id);
 		}
 
 		#endregion

@@ -30,7 +30,7 @@ namespace Talabat.Repository
 		{
 			var basket = await database.StringGetAsync(id);
 
-			return basket.IsNull ? null: JsonSerializer.Deserialize<CustomerBasket>(basket!);
+			return basket.IsNull ? null : JsonSerializer.Deserialize<CustomerBasket>(basket!);
 		}
 
 		public async Task<CustomerBasket?> UpdateBasketAsync(CustomerBasket Basket)
@@ -41,4 +41,34 @@ namespace Talabat.Repository
 			return result ? await GetBasketAsync(Basket.Id) : null;
 		}
 	}
+
+	public class FavouriteRepository : IFavouriteRepository
+	{
+        private readonly IDatabase database;
+
+        public FavouriteRepository(IConnectionMultiplexer redis)
+        {
+            database = redis.GetDatabase();
+        }
+
+        public Task<bool> DeleteBasketAsync(string id)
+        {
+            return database.KeyDeleteAsync(id);
+        }
+
+        public async Task<CustomerFavourite?> GetBasketAsync(string id)
+        {
+            var basket = await database.StringGetAsync(id);
+
+            return basket.IsNull ? null : JsonSerializer.Deserialize<CustomerFavourite>(basket!);
+        }
+
+        public async Task<CustomerFavourite?> UpdateBasketAsync(CustomerFavourite Basket)
+        {
+            var JsonBasket = JsonSerializer.Serialize(Basket);
+            var result = await database.StringSetAsync(Basket.Id, JsonBasket, TimeSpan.FromDays(2));
+
+            return result ? await GetBasketAsync(Basket.Id) : null;
+        }
+    }
 }

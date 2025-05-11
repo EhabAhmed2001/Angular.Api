@@ -21,6 +21,8 @@ namespace Talabat.PL.Helper
 
             CreateMap<CustomerBasketDto, CustomerBasket>().ReverseMap();
 			CreateMap<BasketItemDto, BasketItem>().ReverseMap();
+            
+			CreateMap<FavouriteItemDto, FavouriteItem>().ReverseMap();
 
             CreateMap<Order, OrderToReturnDto>()
                     .ForMember(OR => OR.DeliveryMethod, S => S.MapFrom(O => O.DeliveryMethod.ShortName))

@@ -28,15 +28,15 @@ namespace Talabat.Repository
 		public ValueTask DisposeAsync()
 		=> _dbContext.DisposeAsync();
 
-		public IGenerecRepository<T> Repository<T>() where T : BaseEntity
+		public IGenericRepository<T> Repository<T>() where T : BaseEntity
 		{
 			var type = typeof(T).Name;
 			if (!Repos.ContainsKey(type))
 			{
-				var repository = new GenerecRepository<T>(_dbContext);
+				var repository = new GenericRepository<T>(_dbContext);
 				Repos.Add(type, repository);
 			}
-			return (IGenerecRepository<T>) Repos[type]!;
+			return (IGenericRepository<T>) Repos[type]!;
 			
 		}
 	}
