@@ -130,6 +130,9 @@ namespace Talabat.PL.Controllers
                 DisplayName = user.DisplayNams,
                 Role = UserRoles[0],
                 Token = await _token.CreateTokenAsync(user),
+                PhoneNumber = user.PhoneNumber,
+
+
             };
 
             return Ok(MappedUser);
