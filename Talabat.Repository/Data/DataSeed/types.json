@@ -1,18 +1,18 @@
 [
   {
-    "Name": "audio",
+    "Name": "Audio",
     "Image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692939913875-earphone1.jpg"
   },
   {
-    "Name": "gaming",
+    "Name": "Gaming",
     "Image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692255692675-ant%20sport.jpg"
   },
   {
-    "Name": "mobile",
+    "Name": "Mobile",
     "Image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691076020478-iPhone%2014%20pro.jpg"
   },
   {
-    "Name": "tv",
-    "Image": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694154515879-819Lw2PE8tL._SL1500_.jpg"
+    "Name": "TV",
+    "Image": "https://media.istockphoto.com/id/1395191574/photo/black-led-tv-television-screen-blank-isolated.jpg?s=612x612&w=0&k=20&c=ps14JZJh0ebkINcbQyHFsR1J5EC7ozkj_WO7Fh_9IOI="
   }
 ]

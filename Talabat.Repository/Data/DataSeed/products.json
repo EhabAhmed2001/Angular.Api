@@ -19,7 +19,7 @@
     "Name": "Logitech G733 Lightspeed Wireless Gaming Headset with Suspension Headband, LIGHTSYNC RGB, Blue VO!CE mic Technology and PRO-G Audio Drivers - White",
     "Description": "Total freedom with up to 20 m wireless range and LIGHTSPEED wireless audio transmission...",
     "Price": 384,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692257709689-logitech heaphone.jpg",
+    "PictureUrl": "https://m.media-amazon.com/images/I/71Wth4tH-DL._AC_UF894,1000_QL80_.jpg",
     "TypeId": 2,
     "BrandId": 3
   },
@@ -59,7 +59,7 @@
     "Name": "Samsung Galaxy S21 FE 5G (Lavender, 8GB, 128GB Storage)",
     "Description": "Pro-grade Camera with AI Single Take, Portrait Mode, Night Mode and 30X Space zoom...",
     "Price": 434,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691073671025-galaxy S21 FE.jpg",
+    "PictureUrl": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/x/7/x7wm8wp_jdhnaikz0xptg2bl_1.png",
     "TypeId": 3,
     "BrandId": 7
   },
@@ -75,7 +75,7 @@
     "Name": "Samsung Galaxy S22 5G (Phantom White, 8GB RAM, 128GB Storage) with No Cost EMI/Additional Exchange Offers",
     "Description": "Pro-grade Camera that lets you make your nights epic with Nightography...",
     "Price": 760,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691074519203-galaxy S22 5G.jpg",
+    "PictureUrl": "https://mobiiprice.com/wp-content/uploads/2024/03/Samsung-Galaxy-S22-5G.jpg",
     "TypeId": 3,
     "BrandId": 7
   },
@@ -83,7 +83,7 @@
     "Name": "Samsung Galaxy S22 Ultra 5G (Burgundy, 12GB, 256GB Storage)",
     "Description": "The first Galaxy S with embedded S Pen. Write comfortably like pen on paper...",
     "Price": 1147,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691074776147-galaxy S22 ultra 5G.jpg",
+    "PictureUrl": "https://images-cdn.ubuy.co.id/64d7ab1514f22962442655be-samsung-galaxy-s22-ultra-sm-s908b-ds.jpg",
     "TypeId": 3,
     "BrandId": 7
   },
@@ -104,10 +104,10 @@
     "BrandId": 7
   },
   {
-    "Name": "Apple iPhone 14 (128 GB) - Blue",
+    "Name": "Apple iPhone 14 (128 GB) - Semon",
     "Description": "15.40 cm (6.1-inch) Super Retina XDR display...",
     "Price": 809,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691075659827-iPhone 14.jpg",
+    "PictureUrl": "https://www.powerplanetonline.com/cdnassets/apple_iphone_14_blanco_estrella_01_l.jpg",
     "TypeId": 3,
     "BrandId": 8
   },
@@ -128,10 +128,10 @@
     "BrandId": 8
   },
   {
-    "Name": "Apple iPhone 12 (256GB) - Green",
+    "Name": "Apple iPhone 12 (256GB) - Purple",
     "Description": "6.1-inch (15.5 cm diagonal) Super Retina XDR display...",
     "Price": 844,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1691077233139-iPhone 12.jpg",
+    "PictureUrl": "https://btech.com/media/catalog/product/cache/abcec990ba7ed069deff15a7ad2d4825/a/p/apple-iphone-12-128gb-5g-purple_1.jpg",
     "TypeId": 3,
     "BrandId": 8
   },
@@ -211,7 +211,7 @@
     "Name": "Sony PS5 PlayStation Console+God Of War Ragnarok | Standard Edition | PS5 Game (PlayStation 5)",
     "Description": "Maximize your play sessions with near instant load times for installed PS5 games...",
     "Price": 708,
-    "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1692459170997-61iHq6qV0gL._SL1422_.jpg",
+    "PictureUrl": "https://aitnews.com/wp-content/uploads/2024/11/Sony-portable-gaming-console.jpg",
     "TypeId": 2,
     "BrandId": 1
   },
@@ -396,6 +396,14 @@
     "Description": "Display backlight technology used by the TV...",
     "Price": 1322,
     "PictureUrl": "https://storage.googleapis.com/fir-auth-1c3bc.appspot.com/1694156089516-71KVQa4N4zL._SL1500_.jpg",
+    "TypeId": 4,
+    "BrandId": 23
+  },
+  {
+    "Name": "LG 139 cm (55 inches) 4K Ultra HD Smart OLED TV 55BXPTA (Dark Steel Silver)",
+    "Description": "Display backlight technology used by the TV...",
+    "Price": 15000,
+    "PictureUrl": "https://api-rayashop.freetls.fastly.net/media/catalog/product/cache/4e49ac3a70c0b98a165f3fa6633ffee1/5/5/55uq75006lg_ayh0tmmqe85bjooa.jpg",
     "TypeId": 4,
     "BrandId": 23
   }

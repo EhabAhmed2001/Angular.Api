@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.PL\\Controllers\\OrderController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseed\\brands.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\BasketsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.PL\\Controllers\\BasketsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.repository\\data\\dataseed\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseed\\delivery.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.PL\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseed\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.PL\\Controllers\\PaymentsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6E1DD625-E63E-439A-A802-78A2547AC60A}|Talabat.Repository\\Talabat.Repository.csproj|solutionrelative:talabat.repository\\data\\dataseed\\types.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.Service\\PaymentService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Talabat.PL\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 237,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,76 +50,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\OrderController.cs",
-              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Talabat.PL\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T22:05:03.944Z",
+              "DocumentIndex": 3,
+              "Title": "types.json",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\types.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeed\\types.json",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\types.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeed\\types.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:42:45.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "products.json",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\products.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeed\\products.json",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\products.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeed\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:30:55.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BasketsController.cs",
-              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\BasketsController.cs",
-              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\BasketsController.cs",
-              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\BasketsController.cs",
-              "RelativeToolTip": "Talabat.PL\\Controllers\\BasketsController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T21:26:09.043Z"
+              "Title": "delivery.json",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\delivery.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeed\\delivery.json",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\delivery.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeed\\delivery.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:30:36.712Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\ProductsController.cs",
-              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Talabat.PL\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T20:27:08.392Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\PaymentsController.cs",
-              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "Talabat.PL\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:54:46.795Z"
+              "DocumentIndex": 0,
+              "Title": "brands.json",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\brands.json",
+              "RelativeDocumentMoniker": "Talabat.Repository\\Data\\DataSeed\\brands.json",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Repository\\Data\\DataSeed\\brands.json",
+              "RelativeToolTip": "Talabat.Repository\\Data\\DataSeed\\brands.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-14T07:30:18.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PaymentService.cs",
-              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\PaymentService.cs",
-              "RelativeDocumentMoniker": "Talabat.Service\\PaymentService.cs",
-              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\PaymentService.cs",
-              "RelativeToolTip": "Talabat.Service\\PaymentService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBwAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T19:54:08.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Program.cs",
               "RelativeDocumentMoniker": "Talabat.PL\\Program.cs",
               "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Program.cs",
               "RelativeToolTip": "Talabat.PL\\Program.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGMAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T11:13:35.5Z"
+              "WhenOpened": "2025-05-13T11:13:35.5Z",
+              "EditorCaption": ""
             }
           ]
         }
