@@ -13,28 +13,28 @@ using Talabat.Repository.Data;
 
 namespace Talabat.Repository
 {
-	public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
-	{
-		private readonly StoreContext _dbContext;
+    public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
+    {
+        private readonly StoreContext _dbContext;
 
-		public GenericRepository(StoreContext dbContext)
+        public GenericRepository(StoreContext dbContext)
         {
-			_dbContext = dbContext;
-		}
+            _dbContext = dbContext;
+        }
 
-		#region Without Specification
-		public async Task<IEnumerable<T>> GetAllAsync()
-		{
-			if (typeof(T) == typeof(Product))
-				return (IEnumerable<T>)await _dbContext.Products.Include(P => P.Brand).Include(P => P.Type).ToListAsync();
+        #region Without Specification
+        public async Task<IEnumerable<T>> GetAllAsync()
+        {
+            if (typeof(T) == typeof(Product))
+                return (IEnumerable<T>)await _dbContext.Products.Include(P => P.Brand).Include(P => P.Type).ToListAsync();
 
-			return await _dbContext.Set<T>().ToListAsync();
-		}
+            return await _dbContext.Set<T>().ToListAsync();
+        }
 
 
-		public async Task<T> GetByIdAsync(int id, List<Expression<Func<T, object>>>? Includes = null)
-		{
-			if(Includes != null)
+        public async Task<T> GetByIdAsync(int id, List<Expression<Func<T, object>>>? Includes = null)
+        {
+            if (Includes != null)
             {
                 var query = _dbContext.Set<T>().AsQueryable();
                 foreach (var include in Includes)
@@ -44,30 +44,33 @@ namespace Talabat.Repository
                 return await query.FirstOrDefaultAsync(P => P.Id == id);
             }
             return await _dbContext.Set<T>().FindAsync(id);
-		}
+        }
 
-		#endregion
+        #endregion
 
-		#region With Specification
-		public async Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecifications<T> Spec)
-		{
-			return await GenerateSpec(Spec).ToListAsync();
-		}
+        #region With Specification
+        public async Task<IReadOnlyList<T>> GetAllWithSpecAsync(ISpecifications<T> Spec)
+        {
+            return await GenerateSpec(Spec).ToListAsync();
+        }
 
-		public async Task<T> GetByIdWithSpecAsync(ISpecifications<T> Spec)
-		{
-			return await GenerateSpec(Spec).FirstOrDefaultAsync();
-		}
+        public async Task<T> GetByIdWithSpecAsync(ISpecifications<T> Spec)
+        {
+            return await GenerateSpec(Spec).FirstOrDefaultAsync();
+        }
 
-		#endregion
+        #endregion
 
-		private IQueryable<T> GenerateSpec(ISpecifications<T> Spec)
-		{
-			return  SpecificationEvalutor<T>.GetQuery(_dbContext.Set<T>(), Spec).Result;
-		}
+        private IQueryable<T> GenerateSpec(ISpecifications<T> Spec)
+        {
+            return SpecificationEvalutor<T>.GetQuery(_dbContext.Set<T>(), Spec).Result;
+        }
 
-		public async Task AddAsync(T item)
-		=> await _dbContext.Set<T>().AddAsync(item);
+        public async Task AddAsync(T item)
+        => await _dbContext.Set<T>().AddAsync(item);
 
-	}
+        public void Delete(T item)
+            => _dbContext.Set<T>().Remove(item);
+
+    }
 }

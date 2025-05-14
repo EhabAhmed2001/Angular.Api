@@ -85,5 +85,13 @@ namespace Talabat.Service
 
 			return Orders; 
 		}
-	}
+
+        public async Task<IReadOnlyList<Order>> GetAllOrders()
+        {
+            var Spec = new OrderSpecifications();
+            var Orders = await _unitOfWork.Repository<Order>().GetAllWithSpecAsync(Spec);
+
+            return Orders;
+        }
+    }
 }

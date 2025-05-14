@@ -9,6 +9,6 @@ namespace Talabat.Core.Services
 {
 	public interface ITokenService
 	{
-		public string CreateTokenAsync(AppUser user);
+		public Task<string> CreateTokenAsync(AppUser user);
 	}
 }

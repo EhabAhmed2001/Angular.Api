@@ -21,9 +21,9 @@ namespace Talabat.PL.Controllers
 		private readonly IMapper _mapper;
 		private readonly IUnitOfWork _unitOfWork;
 
-		public ProductsController(  IMapper mapper,
+		public ProductsController(IMapper mapper,
 									IUnitOfWork UnitOfWork)
-        {
+		{
 			_mapper = mapper;
 			_unitOfWork = UnitOfWork;
 		}
@@ -37,24 +37,24 @@ namespace Talabat.PL.Controllers
 			var Products = await _unitOfWork.Repository<Product>().GetAllWithSpecAsync(Spec);
 			var MappedProduct = _mapper.Map<IReadOnlyList<Product>, IReadOnlyList<ProductToReturnDto>>(Products);
 			var Count = Spec.Count;
-			return Ok(new Pagination<ProductToReturnDto>(Params.PageSize,Params.index,MappedProduct, Count));
+			return Ok(new Pagination<ProductToReturnDto>(Params.PageSize, Params.index, MappedProduct, Count));
 		}
 
 		// Get Product Using Id
 		[HttpGet("{Id}")]
-		[ProducesResponseType(typeof(ProductToReturnDto),200)]
-		[ProducesResponseType(typeof(ApiResponse),404)]
-        public async Task<ActionResult<Product>> GetProductById(int Id)
-        {
-            //var Spec = new ProductWithBrandAndTypeSpec(Id);
-            //var product = await _unitOfWork.Repository<Product>().GetByIdWithSpecAsync(Spec);
-            var includes = 
-				new List<Expression<Func<Product, object>>> {	o => o.Brand,
-																o => o.Type	};
+		[ProducesResponseType(typeof(ProductToReturnDto), 200)]
+		[ProducesResponseType(typeof(ApiResponse), 404)]
+		public async Task<ActionResult<Product>> GetProductById(int Id)
+		{
+			//var Spec = new ProductWithBrandAndTypeSpec(Id);
+			//var product = await _unitOfWork.Repository<Product>().GetByIdWithSpecAsync(Spec);
+			var includes =
+				new List<Expression<Func<Product, object>>> {   o => o.Brand,
+																o => o.Type };
 			var product = await _unitOfWork.Repository<Product>().GetByIdAsync(Id, includes);
-            if (product is null)
-                return NotFound(new ApiResponse(404));
-            var MappedProduct = _mapper.Map<Product, ProductToReturnDto>(product);
+			if (product is null)
+				return NotFound(new ApiResponse(404));
+			var MappedProduct = _mapper.Map<Product, ProductToReturnDto>(product);
 			return Ok(MappedProduct);
 		}
 
@@ -76,6 +76,64 @@ namespace Talabat.PL.Controllers
 			return Ok(type);
 		}
 
-		//[HttpPost]
-	}
+		[HttpPost]
+		public async Task<ActionResult<ProductToReturnDto>> CreateProduct([FromForm] ProductDto product)
+		{
+			string imagePath = AddPicFile.AddPic(product.Picture, "Products");
+
+			var mappedProduct = _mapper.Map<ProductDto, Product>(product);
+			mappedProduct.PictureUrl = imagePath;
+			await _unitOfWork.Repository<Product>().AddAsync(mappedProduct);
+			var result = await _unitOfWork.CompleteAsync();
+
+			if (result <= 0)
+				return BadRequest(new ApiResponse(400, "Failed to create product"));
+			var mappedResult = _mapper.Map<Product, ProductToReturnDto>(mappedProduct);
+			return CreatedAtAction(nameof(GetProductById), new { Id = mappedResult.Id }, mappedResult);
+		}
+
+		[HttpPut("{Id}")]
+		public async Task<ActionResult<ProductToReturnDto>> UpdateProduct(int Id, [FromForm] ProductDto product)
+		{
+			var existingProduct = await _unitOfWork.Repository<Product>().GetByIdAsync(Id);
+			if (existingProduct is null)
+				return NotFound(new ApiResponse(404));
+
+
+			var oldImagePath = existingProduct.PictureUrl;
+
+            string imagePath = AddPicFile.AddPic(product.Picture, "Products");
+
+            //var mappedProduct = _mapper.Map<ProductDto, Product>(product);
+            //existingProduct = mappedProduct;
+            //existingProduct.Id = Id;
+            _mapper.Map(product, existingProduct);
+            existingProduct.PictureUrl = imagePath;
+
+            var result = await _unitOfWork.CompleteAsync();
+            if (result <= 0)
+                return BadRequest(new ApiResponse(400, "Failed to update product"));
+
+            AddPicFile.DeletePic(oldImagePath);
+            var mappedResult = _mapper.Map<Product, ProductToReturnDto>(existingProduct);
+            return Ok(mappedResult);
+        }
+
+        [HttpDelete("{Id}")]
+        public async Task<ActionResult<ProductToReturnDto>> DeleteProduct(int Id)
+		{
+            var existingProduct = await _unitOfWork.Repository<Product>().GetByIdAsync(Id);
+            if (existingProduct is null)
+                return NotFound(new ApiResponse(404));
+
+            _unitOfWork.Repository<Product>().Delete(existingProduct);
+            var result = await _unitOfWork.CompleteAsync();
+            if (result <= 0)
+                return BadRequest(new ApiResponse(400, "Failed to delete product"));
+
+            AddPicFile.DeletePic(existingProduct.PictureUrl);
+            return Ok(new ApiResponse(200, "Product Deleted Successfully"));
+        }
+    }
+
 } 

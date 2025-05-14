@@ -93,10 +93,11 @@ namespace Talabat.PL
 				//var IdentityDbContext = service.GetRequiredService<AppIdentityDbContext>();
 
 				var userManager = service.GetRequiredService<UserManager<AppUser>>();
+				var roleManager = service.GetRequiredService<RoleManager<IdentityRole>>();
 
-				//await IdentityDbContext.Database.MigrateAsync();
+                //await IdentityDbContext.Database.MigrateAsync();
 
-				await AppIdentityDbContextSeed.SeedUserAsync(userManager);
+                await AppIdentityDbContextSeed.SeedUserAsync(userManager, roleManager);
 
 				await DataStoreSeed.SeedAsync(DbContext);
 			}

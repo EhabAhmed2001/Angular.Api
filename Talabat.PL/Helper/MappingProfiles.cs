@@ -19,6 +19,15 @@ namespace Talabat.PL.Helper
             CreateMap<Address, AddressDto>().ReverseMap();
             CreateMap<AddressDto, OrderAddress>();
 
+            CreateMap<ProductDto, Product>().ReverseMap();
+
+            CreateMap<ProductBrand, BrandDto>().ReverseMap();
+            CreateMap<ProductType, TypeDto>().ReverseMap();
+
+            CreateMap<ProductType, TypeToReturnDto>()
+                .ForMember(TR=>TR.Image, PT=>PT.MapFrom<TypePicUrlResolve>())
+                .ReverseMap();
+
             CreateMap<CustomerBasketDto, CustomerBasket>().ReverseMap();
 			CreateMap<BasketItemDto, BasketItem>().ReverseMap();
             

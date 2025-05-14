@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D72D4E-A29B-4C25-BE6E-742824FEC1D8}|Talabat.Service\\Talabat.Service.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D72D4E-A29B-4C25-BE6E-742824FEC1D8}|Talabat.Service\\Talabat.Service.csproj|solutionrelative:talabat.service\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|e:\\courses\\iti\\21- angular\\talabatprojectsolution\\talabatprojectsolution\\talabat.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{048BDEBE-2F61-486F-9279-853E5139E809}|Talabat.PL\\Talabat.PL.csproj|solutionrelative:talabat.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 237,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +51,79 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Talabat.PL\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T22:05:03.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\BasketsController.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "Talabat.PL\\Controllers\\BasketsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T21:26:09.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Talabat.PL\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T20:27:08.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Talabat.PL\\Controllers\\PaymentsController.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Talabat.PL\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:54:46.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\PaymentService.cs",
+              "RelativeDocumentMoniker": "Talabat.Service\\PaymentService.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\PaymentService.cs",
+              "RelativeToolTip": "Talabat.Service\\PaymentService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T19:54:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Talabat.PL\\Program.cs",
+              "ToolTip": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\Program.cs",
+              "RelativeToolTip": "Talabat.PL\\Program.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T11:13:35.5Z"
             }
           ]
         }

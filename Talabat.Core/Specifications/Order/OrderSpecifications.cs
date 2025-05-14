@@ -27,5 +27,12 @@ namespace Talabat.Core.Specifications.Order
 			IsPaginationEnable = false;
 
 		}
-	}
+        public OrderSpecifications()
+        {
+            Includes.Add(O => O.DeliveryMethod);
+            Includes.Add(O => O.Items);
+
+            IsPaginationEnable = false;
+        }
+    }
 }

@@ -25,5 +25,6 @@ namespace Talabat.Core.Repository
 		#endregion
 
 		 Task AddAsync(T item);
-	}
+		void Delete(T item);
+    }
 }

@@ -14,7 +14,13 @@ namespace Talabat.PL.Helper
 		}
 		public string Resolve(OrderItem source, OrderItemDto destination, string destMember, ResolutionContext context)
 		{
-			if (!string.IsNullOrEmpty(source.Product.PictureUrl))
+			// check if the image is url
+			if(source.Product.PictureUrl.Contains("http"))
+            {
+                return source.Product.PictureUrl;
+            }
+
+            if (!string.IsNullOrEmpty(source.Product.PictureUrl))
 			{
 				return $"{_configuration["APIBaseUrl"]}{source.Product.PictureUrl}";
 			}

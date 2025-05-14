@@ -1,9 +1,11 @@
-﻿using System.Security.Claims;
+﻿using System.Collections.Generic;
+using System.Security.Claims;
 using AutoMapper;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Talabat.Core.Entities.Order_Aggregate;
+using Talabat.Core.Repository;
 using Talabat.Core.Services;
 using Talabat.PL.DTOs;
 using Talabat.PL.Errors;
@@ -15,12 +17,14 @@ namespace Talabat.PL.Controllers
 	{
 		private readonly IOrderService _orderSercive;
 		private readonly IMapper _mapper;
+        private readonly IBasketRepository _basket;
 
-		public OrderController(IOrderService OrderSercive, IMapper Mapper)
+        public OrderController(IOrderService OrderSercive, IMapper Mapper, IBasketRepository basket)
 		{
 			_orderSercive = OrderSercive;
 			_mapper = Mapper;
-		}
+            _basket = basket;
+        }
 
 		[ProducesResponseType(typeof(OrderToReturnDto), StatusCodes.Status200OK)]
 		[ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
@@ -34,8 +38,15 @@ namespace Talabat.PL.Controllers
 			if (order is null)
 				return BadRequest(new ApiResponse(400, "There Is a Problem With Your Order"));
 
-			var OrderMapped = _mapper.Map<Order, OrderToReturnDto>(order);
-			return Ok(OrderMapped);
+            var OrderMapped = _mapper.Map<Order, OrderToReturnDto>(order);
+
+            // delete the basket after creating the order
+            var basket = await _basket.GetBasketAsync(orderDto.BasketId);
+            if (basket != null)
+                await _basket.DeleteBasketAsync(orderDto.BasketId);
+
+
+            return Ok(OrderMapped);
 		}
 
 
@@ -70,7 +81,20 @@ namespace Talabat.PL.Controllers
 		}
 
 
-		[HttpGet("DeliveryMethods")]
+		// GetAllOrders
+		[HttpGet("GetAllOrders")]
+        [Authorize(Roles = "Admin")]
+        public async Task<ActionResult<OrderToReturnDto>> GetOrders()
+        {
+            var order = await _orderSercive.GetAllOrders();
+
+            var OrderMapped = _mapper.Map<IReadOnlyList<Order>, IReadOnlyList<OrderToReturnDto>>(order);
+
+            return order is null ? Ok(new ApiResponse(200, "No Oredrs Yet")) : Ok(OrderMapped);
+        }
+
+
+        [HttpGet("DeliveryMethods")]
 		public async Task<ActionResult<IReadOnlyList<DeliveryMethod>>> GetAllDeliveryMethods()
 		=> Ok(await _orderSercive.GetAllDeliveryMethodsAsync());
 
