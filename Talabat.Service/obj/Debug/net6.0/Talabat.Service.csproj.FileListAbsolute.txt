@@ -62,3 +62,19 @@ E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat
 E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
 E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
 E:\Courses\ITI\21- Angular\TalabatProjectSolution\TalabatProjectSolution\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\repo\Angular.Api\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\repo\Angular.Api\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\repo\Angular.Api\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\repo\Angular.Api\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\repo\Angular.Api\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.sourcelink.json
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\repo\Angular.Api\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll

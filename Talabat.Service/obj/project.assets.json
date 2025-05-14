@@ -1809,23 +1809,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eahme\\.nuget\\packages\\": {},
+    "C:\\Users\\MF\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj",
+      "projectUniqueName": "D:\\repo\\Angular.Api\\Talabat.Service\\Talabat.Service.csproj",
       "projectName": "Talabat.Service",
-      "projectPath": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\Talabat.Service.csproj",
-      "packagesPath": "C:\\Users\\eahme\\.nuget\\packages\\",
-      "outputPath": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Service\\obj\\",
+      "projectPath": "D:\\repo\\Angular.Api\\Talabat.Service\\Talabat.Service.csproj",
+      "packagesPath": "C:\\Users\\MF\\.nuget\\packages\\",
+      "outputPath": "D:\\repo\\Angular.Api\\Talabat.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\eahme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MF\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1834,14 +1834,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj": {
-              "projectPath": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.Core\\Talabat.Core.csproj"
+            "D:\\repo\\Angular.Api\\Talabat.Core\\Talabat.Core.csproj": {
+              "projectPath": "D:\\repo\\Angular.Api\\Talabat.Core\\Talabat.Core.csproj"
             }
           }
         }
@@ -1856,7 +1857,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -1883,7 +1884,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

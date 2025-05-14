@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "TmHh0wFATjIhCsAJ1Qtl90kVBG9cfUJxJzrILTt/obk=",
+  "Hash": "SAWiVEGCV3SbOJn4FgTNY5+sORMHZR29n9r6lYvgDbs=",
   "Source": "Talabat.PL",
   "BasePath": "_content/Talabat.PL",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Talabat.PL\\wwwroot",
       "Source": "Talabat.PL",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/hat-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-core1.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/hat-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react1.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/hat-react2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\hat-react2.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-ang1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang1.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-ang2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-ang2.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-core1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core1.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-core2#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-core2.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-react1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Products\\sb-react1.png"
     },
     {
-      "Identity": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "Identity": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
       "SourceId": "Talabat.PL",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\",
+      "ContentRoot": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\",
       "BasePath": "_content/Talabat.PL",
       "RelativePath": "Images/Products/sb-ts1#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -209,7 +209,7 @@
   "Endpoints": [
     {
       "Route": "Images/Products/hat-core1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -230,7 +230,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:10 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -246,7 +246,7 @@
     },
     {
       "Route": "Images/Products/hat-core1.tyrypc54c7.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -267,7 +267,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:10 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -291,7 +291,7 @@
     },
     {
       "Route": "Images/Products/hat-react1.2722vlpdtt.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -312,7 +312,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:14:06 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -336,7 +336,7 @@
     },
     {
       "Route": "Images/Products/hat-react1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -357,7 +357,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:14:06 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -373,7 +373,7 @@
     },
     {
       "Route": "Images/Products/hat-react2.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -394,7 +394,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:14:36 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -410,7 +410,7 @@
     },
     {
       "Route": "Images/Products/hat-react2.rm7m36jqfp.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\hat-react2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -431,7 +431,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:14:36 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -455,7 +455,7 @@
     },
     {
       "Route": "Images/Products/sb-ang1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -476,7 +476,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:30 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -492,7 +492,7 @@
     },
     {
       "Route": "Images/Products/sb-ang1.sg60bs5h3l.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -513,7 +513,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:30 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -537,7 +537,7 @@
     },
     {
       "Route": "Images/Products/sb-ang2.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -558,7 +558,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:44 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -574,7 +574,7 @@
     },
     {
       "Route": "Images/Products/sb-ang2.xx1bed13kp.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ang2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -595,7 +595,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:44 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -619,7 +619,7 @@
     },
     {
       "Route": "Images/Products/sb-core1.ac011r0zl3.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -640,7 +640,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:10 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -664,7 +664,7 @@
     },
     {
       "Route": "Images/Products/sb-core1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -685,7 +685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:10 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -701,7 +701,7 @@
     },
     {
       "Route": "Images/Products/sb-core2.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -722,7 +722,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:12 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -738,7 +738,7 @@
     },
     {
       "Route": "Images/Products/sb-core2.rtc35nek9w.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-core2.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -759,7 +759,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:20:12 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -783,7 +783,7 @@
     },
     {
       "Route": "Images/Products/sb-react1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -804,7 +804,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:13:20 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -820,7 +820,7 @@
     },
     {
       "Route": "Images/Products/sb-react1.wvlm6kd9o5.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-react1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -841,7 +841,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:13:20 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -865,7 +865,7 @@
     },
     {
       "Route": "Images/Products/sb-ts1.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -886,7 +886,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:22 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -902,7 +902,7 @@
     },
     {
       "Route": "Images/Products/sb-ts1.pxg9jyu8os.png",
-      "AssetFile": "E:\\Courses\\ITI\\21- Angular\\TalabatProjectSolution\\TalabatProjectSolution\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
+      "AssetFile": "D:\\repo\\Angular.Api\\Talabat.PL\\wwwroot\\Images\\Products\\sb-ts1.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -923,7 +923,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 20 May 2023 04:12:22 GMT"
+          "Value": "Mon, 12 May 2025 19:26:22 GMT"
         },
         {
           "Name": "Cache-Control",

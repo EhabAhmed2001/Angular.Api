@@ -2231,10 +2231,13 @@
       },
       "RegisterDto": {
         "required": [
+          "city",
+          "country",
           "displayName",
           "email",
           "password",
-          "phoneNumber"
+          "phoneNumber",
+          "street"
         ],
         "type": "object",
         "properties": {
@@ -2253,6 +2256,18 @@
             "format": "tel"
           },
           "password": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "street": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "city": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "country": {
             "minLength": 1,
             "type": "string"
           }

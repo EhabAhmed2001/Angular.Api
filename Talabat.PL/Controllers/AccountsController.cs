@@ -33,8 +33,10 @@ namespace Talabat.PL.Controllers
 
         // Register
 
+
+
         [HttpPost("Register")]
-        public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto, string Role = "Customer")
+        public async Task<ActionResult<UserDto>> Register(RegisterDto registerDto, string? Role = "Customer")
         {
 
             if (CheckIfUserExist(registerDto.Email).Result.Value)
@@ -45,11 +47,19 @@ namespace Talabat.PL.Controllers
                 DisplayNams = registerDto.DisplayName,
                 Email = registerDto.Email,
                 PhoneNumber = registerDto.PhoneNumber,
-                UserName = registerDto.Email.Split('@')[0]
+                UserName = registerDto.Email.Split('@')[0],
+                Address = new Address()
+                {
+                    Street = registerDto.Street,
+                    City = registerDto.City,
+                    Country = registerDto.Country,
+                    FirstName = registerDto.DisplayName.Split()[0],
+                    LastName = registerDto.DisplayName.Split()[1]
+                }
             };
             var Result = await _userManager.CreateAsync(user, registerDto.Password);
 
-            if (!Result.Succeeded) return BadRequest(new ApiResponse(400));
+            if (!Result.Succeeded) return BadRequest(new ApiResponse(400, Result.Errors.FirstOrDefault().Description));
 
             if (Role == "Customer")
             {
